@@ -1,8 +1,14 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 export default function Experience() {
   return (
-    <section className="container my-4">
+    <motion.section
+      className="container my-4"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.6 }}
+    >
       <h2>Experience</h2>
 
       <div className="card mb-3">
@@ -12,10 +18,10 @@ export default function Experience() {
           <ul>
             <li>Developed ecommerce system</li>
             <li>Built carpooling system</li>
-            <li>Leave management system with dashboards</li>
+            <li>Created leave management system dashboards</li>
           </ul>
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 }
