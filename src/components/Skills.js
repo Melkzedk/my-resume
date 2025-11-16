@@ -1,10 +1,16 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 export default function Skills() {
   const skills = ["JavaScript", "React", "Node.js", "MongoDB", "Bootstrap"];
 
   return (
-    <section className="container my-4">
+    <motion.section
+      className="container my-4"
+      initial={{ opacity: 0 }}
+      whileInView={{ opacity: 1 }}
+      transition={{ delay: 0.3, duration: 0.6 }}
+    >
       <h2>Skills</h2>
       <ul className="list-group">
         {skills.map((skill, index) => (
@@ -13,6 +19,6 @@ export default function Skills() {
           </li>
         ))}
       </ul>
-    </section>
+    </motion.section>
   );
 }
