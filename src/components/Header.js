@@ -27,7 +27,7 @@ export default function Header({ dark, toggleTheme }) {
         transition={{ duration: 0.8 }}
       />
 
-      <h1>MELKZEDEK</h1>
+      <h1>MELKZEDEK WAFULA</h1>
       <p className="lead">Full Stack Developer</p>
 
       <button className="btn btn-light me-2" onClick={toggleTheme}>
