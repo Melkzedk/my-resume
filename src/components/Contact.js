@@ -11,8 +11,8 @@ export default function Contact() {
     >
       <h2>Contact</h2>
 
-      <p>Email: johndoe@gmail.com</p>
-      <p>Phone: +123 456 789</p>
+      <p>Email: melkywafula29@gmail.com</p>
+      <p>Phone: +254746365629</p>
 
       <div className="mt-3">
         <a href="https://github.com" className="btn btn-dark me-2">
