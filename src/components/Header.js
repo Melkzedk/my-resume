@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas";
+import image1 from "../my-resume.jpg";
 
 export default function Header({ dark, toggleTheme }) {
 
@@ -19,7 +20,7 @@ export default function Header({ dark, toggleTheme }) {
   return (
     <header className={`text-center p-4 ${dark ? "bg-secondary" : "bg-primary"} text-white`}>
       <motion.img
-        src="https://via.placeholder.com/120"
+        src={image1}
         alt="Profile"
         className="rounded-circle mb-3"
         initial={{ scale: 0 }}
