@@ -15,7 +15,7 @@ export default function Contact() {
       <p>Phone: +254746365629</p>
 
       <div className="mt-3">
-        <a href="https://github.com" className="btn btn-dark me-2">
+        <a href="https://github.com/Melkzedk" className="btn btn-dark me-2">
           GitHub
         </a>
         <a href="https://linkedin.com" className="btn btn-primary me-2">
