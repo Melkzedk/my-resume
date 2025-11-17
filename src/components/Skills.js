@@ -12,8 +12,7 @@ export default function Skills() {
     "MySQL",
     "Git",
     "Next.js",
-    "TailwindCSS",
-    "Linux",
+    "Linux"
   ];
 
   return (
@@ -21,15 +20,19 @@ export default function Skills() {
       className="container my-5"
       initial={{ opacity: 0 }}
       whileInView={{ opacity: 1 }}
-      transition={{ delay: 0.2, duration: 0.6 }}
+      transition={{ delay: 0.3, duration: 0.6 }}
     >
       <h2 className="mb-4 fw-bold">Skills</h2>
 
-      <div className="d-flex flex-wrap gap-2">
+      <div className="row g-3">
         {skills.map((skill, index) => (
-          <span key={index} className="badge bg-primary p-2 px-3 fs-6">
-            {skill}
-          </span>
+          <div className="col-6 col-md-4 col-lg-3" key={index}>
+            <div className="card text-center shadow-sm p-2 border-0">
+              <div className="card-body p-2">
+                <h6 className="m-0">{skill}</h6>
+              </div>
+            </div>
+          </div>
         ))}
       </div>
     </motion.section>
