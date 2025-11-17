@@ -11,7 +11,7 @@ export default function Skills() {
       whileInView={{ opacity: 1 }}
       transition={{ delay: 0.3, duration: 0.6 }}
     >
-      <h2>Skill</h2>
+      <h2>Skills</h2>
       <ul className="list-group">
         {skills.map((skill, index) => (
           <li className="list-group-item" key={index}>
