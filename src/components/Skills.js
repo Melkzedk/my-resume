@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 export default function Skills() {
-  const skills = ["JavaScript", "React", "Node.js", "MongoDB", "Bootstrap"];
+  const skills = ["JavaScript", "React", "Node.js", "MongoDB", "Bootstrap", 'php', 'MySQL', 'Git'];
 
   return (
     <motion.section

@@ -62,7 +62,7 @@ export default function Experience() {
                 <i className="bi bi-person-badge me-2 text-primary"></i>
                 Assistant Consultant
               </h5>
-              <p className="text-muted">2023 – 2025</p>
+              <p className="text-muted">2023 – Present</p>
               <p className="card-text">ICT Support • Networking • Servers • Backups</p>
               <ul>
                 <li>Provided ICT support and resolved technical issues</li>
