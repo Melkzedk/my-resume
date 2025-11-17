@@ -12,6 +12,7 @@ export default function Contact() {
       <h2>Contact</h2>
 
       <p>Email: melkywafula29@gmail.com</p>
+      <p>Work Email: mwafula@gmail.com</p>
       <p>Phone: +254746365629</p>
 
       <div className="mt-3">
