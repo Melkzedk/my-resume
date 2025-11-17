@@ -14,8 +14,8 @@ export default function Experience() {
       {/* Full Stack Developer */}
       <div className="card mb-3">
         <div className="card-body">
-          <h5 className="card-title">Full Stack Developer(FreeLancin)</h5>
-          <p className="card-text">React • Next.js • Node.js</p>
+          <h5 className="card-title">Full Stack Developer(FreeLancing)</h5>
+          <p className="card-text">React • Next.js • Node.js • MongoDb</p>
           <ul>
             <li>Developed an ecommerce system</li>
             <li>Built a carpooling system</li>
