@@ -18,7 +18,7 @@ export default function Skills() {
       { name: "REST APIs", icon: "bi bi-diagram-3" },
     ],
     Tools: [
-      { name: "Git", icon: "bi bi-git" },
+      { name: "Git/Git Version", icon: "bi bi-git" },
       { name: "Linux", icon: "bi bi-terminal" },
       { name: "VS Code", icon: "bi bi-code-slash" },
       { name: "Nginx/Apache", icon: "bi bi-wrench" },
