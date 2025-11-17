@@ -18,7 +18,7 @@ export default function Contact() {
         <a href="https://github.com/Melkzedk" className="btn btn-dark me-2">
           GitHub
         </a>
-        <a href="https://linkedin.com" className="btn btn-primary me-2">
+        <a href="www.linkedin.com/in/melkzedek-wafula-4a8b46203" className="btn btn-primary me-2">
           LinkedIn
         </a>
         <a href="https://twitter.com" className="btn btn-info">
