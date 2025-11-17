@@ -48,7 +48,7 @@ export default function Header({ dark, toggleTheme }) {
         </button>
 
         <button className="btn btn-warning" onClick={downloadPDF}>
-          Download PDF
+          Download PDF!
         </button>
       </div>
     </header>
