@@ -9,7 +9,7 @@ export default function About() {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      <h2>About Me</h2>
+      <h2>About Me!</h2>
       <p>
         I am a passionate Full Stack Developer skilled in React, Node.js,
         Next.js, Express, and MongoDB.
