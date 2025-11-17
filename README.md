@@ -5,4 +5,4 @@ PROJECT STRUCURE
 <img width="1898" height="452" alt="Screenshot 2025-11-17 150040" src="https://github.com/user-attachments/assets/b544f4bc-6b46-410a-af28-eb0b054213a6" />
 
 SMALL SCREEN 
-
+<img width="910" height="927" alt="Screenshot 2025-11-17 150933" src="https://github.com/user-attachments/assets/f9393a3d-74ff-4021-ac86-8467ca6c0313" />
