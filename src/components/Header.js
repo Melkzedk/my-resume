@@ -27,7 +27,7 @@ export default function Header({ dark, toggleTheme }) {
     >
       <motion.img
         src={image1}
-        alt="Profile"
+        alt="Profile1"
         className="rounded-circle mb-3"
         style={{
           width: "120px",
