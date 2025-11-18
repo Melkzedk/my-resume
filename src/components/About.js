@@ -11,7 +11,7 @@ export default function About() {
     >
       <h2>About Me</h2>
       <p>
-        I am a passionate Full Stack Developer! skilled in React, Node.js,
+        I am a passionate Full Stack Developer skilled in React, Node.js,
         Next.js, Express, and MongoDB.
       </p>
     </motion.section>
