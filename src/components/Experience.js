@@ -35,7 +35,7 @@ export default function Experience() {
               </h5>
               <p className="text-muted">2021 – 2024</p>
               <p className="card-text">
-                React • Next.js • Node.js • MongoDB • Bootstrap • TailwindCSS
+                React • Next.js • Node.js • MongoDB • Bootstrap • TailwindCSS • RESTful APIs
               </p>
               <ul>
                 <li>Developed an ecommerce system</li>
