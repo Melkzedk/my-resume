@@ -1,4 +1,5 @@
-#PROJECT LIVE LINK
+#PROJECT LIVE LINK.
+https://my-resume-melk.netlify.app/
 
 PROJECT STRUCURE
 <img width="1912" height="873" alt="Screenshot 2025-11-17 145950" src="https://github.com/user-attachments/assets/f3f3e086-17de-49e5-96b0-c74a8a4941e3" />
