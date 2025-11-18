@@ -9,7 +9,7 @@ export default function Header({ dark, toggleTheme }) {
     const resume = document.body;
 
     html2canvas(resume, { scale: 2 }).then((canvas) => {
-      const img = canvas.toDataURL("image/png");
+      const img = canvas.toDataURL("image/p|ng");
       const pdf = new jsPDF("p", "mm", "a4");
       const imgProps = pdf.getImageProperties(img);
       const pdfWidth = pdf.internal.pageSize.getWidth();
@@ -39,7 +39,7 @@ export default function Header({ dark, toggleTheme }) {
         transition={{ duration: 0.8 }}
       />
 
-      <h1>MELKZEDEK WAFULA</h1>
+      <h1>MELKZEDEK WAFULA W</h1>
       <p className="lead"><bold>Full Stack Developer</bold></p>
 
       <div className="d-flex justify-content-center mt-3 flex-wrap gap-2">
