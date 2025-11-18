@@ -14,6 +14,7 @@ export default function About() {
         I am a passionate Full Stack Developer skilled in React, Node.js,
         Next.js, Express,PHP,Mysql and MongoDB.
       </p>
+      <p>MELKZEDEK WAFULA</p>
     </motion.section>
   );
 }
