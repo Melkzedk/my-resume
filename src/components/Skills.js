@@ -18,6 +18,7 @@ export default function Skills() {
       { name: "MongoDB", icon: "bi bi-database" },
       { name: "MySQL", icon: "bi bi-hdd-network" },
       { name: "REST APIs", icon: "bi bi-diagram-3" },
+      {name: "SQL", icon: "bi bi-file-earmark-spreadsheet" },
     ],
     Tools: [
       { name: "Git/Git Version", icon: "bi bi-git" },
