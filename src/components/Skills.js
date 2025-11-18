@@ -26,6 +26,7 @@ export default function Skills() {
       { name: "VS Code", icon: "bi bi-code-slash" },
       { name: "Nginx/Apache", icon: "bi bi-wrench" },
       { name: "Docker", icon: "bi bi-box-seam" },
+      {name: "Postman", icon: "bi bi-send" },
     ],
   };
 
