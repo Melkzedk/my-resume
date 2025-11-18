@@ -43,8 +43,8 @@ export default function Header({ dark, toggleTheme }) {
       <p className="lead"><bold>Full Stack Developer</bold></p>
 
       <div className="d-flex justify-content-center mt-3 flex-wrap gap-2">
-        <button className="btn btn-light" onClick={toggleTheme}>
-          {dark ? "Light Mode" : "Dark Mode" }
+        <button className="btn btn-light" onClick={toggleTheme}>\\Z
+          {dark ? "Light Mode" : "Dark Mode123" }
         </button>
 
         <button className="btn btn-warning" onClick={downloadPDF}>
