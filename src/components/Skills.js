@@ -27,6 +27,7 @@ export default function Skills() {
       { name: "Nginx/Apache", icon: "bi bi-wrench" },
       { name: "Docker", icon: "bi bi-box-seam" },
       {name: "Postman", icon: "bi bi-send" },
+      {name: "Putty", icon: "bi bi-plug" },
     ],
   };
 
