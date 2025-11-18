@@ -44,7 +44,7 @@ export default function Header({ dark, toggleTheme }) {
 
       <div className="d-flex justify-content-center mt-3 flex-wrap gap-2">
         <button className="btn btn-light" onClick={toggleTheme}>\\Z
-          {dark ? "Light Mode" : "Dark Mode123" }
+          {dark ? "Light Mode" : "Dark Mode" }
         </button>
 
         <button className="btn btn-warning" onClick={downloadPDF}>
