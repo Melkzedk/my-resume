@@ -9,6 +9,8 @@ export default function Skills() {
       { name: "Next.js", icon: "bi bi-window-stack" },
       { name: "Bootstrap", icon: "bi bi-bootstrap" },
       { name: "TailwindCSS", icon: "bi bi-palette" },
+      {name: "HTML5", icon: "bi bi-code-slash" },
+      {name: "CSS3", icon: "bi bi-braces" },
     ],
     Backend: [
       { name: "Node.js", icon: "bi bi-server" },
