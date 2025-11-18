@@ -40,7 +40,7 @@ export default function Header({ dark, toggleTheme }) {
       />
 
       <h1>MELKZEDEK WAFULA</h1>
-      <p className="lead"><bold style="font-size: 20px">Full Stack Developer</bold></p>
+      <p className="lead"><bold>Full Stack Developer</bold></p>
 
       <div className="d-flex justify-content-center mt-3 flex-wrap gap-2">
         <button className="btn btn-light" onClick={toggleTheme}>
