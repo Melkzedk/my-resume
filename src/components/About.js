@@ -12,7 +12,7 @@ export default function About() {
       <h2>About Me</h2>
       <p>
         I am a passionate Full Stack Developer skilled in React, Node.js,
-        Next.js, Express,PHP,and MongoDB.
+        Next.js, Express,PHP,Mysql and MongoDB.
       </p>
     </motion.section>
   );
