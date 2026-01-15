@@ -29,7 +29,7 @@ export default function Header({ dark, toggleTheme }) {
         src={image1}
         alt="Profile"
         className="rounded-circle mb-3"
-        style={{
+        style={{\ 
           width: "120px",
           height: "120px",
           objectFit: "cover",
