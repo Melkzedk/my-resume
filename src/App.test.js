@@ -7,5 +7,5 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
   //catch(err) {
     //console.error('Test failed:', err);
-//}
+}
 });
